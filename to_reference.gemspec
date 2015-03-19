@@ -9,4 +9,6 @@ Gem::Specification.new do |s|
   s.files       = ["lib/to_reference.rb"]
   s.homepage    =
     'http://rubygems.org/gems/to_reference'
+
+  s.add_dependency('activesupport', '~> 3.2')
 end

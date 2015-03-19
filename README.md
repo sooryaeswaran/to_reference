@@ -1,5 +1,8 @@
 # ToReference
 
+[![Build Status](https://api.travis-ci.org/sooryaeswaran/to_reference.png?branch=master)](http://travis-ci.org/sooryaeswaran/to_reference)
+[![Code Climate](https://codeclimate.com/github/sooryaeswaran/to_reference.png)](https://codeclimate.com/github/sooryaeswaran/to_reference)
+
 A simple solution to convert any ruby method to a reference. Just like in Javascript, you can pass around and call these references at a later time."
 
 ## Installation
