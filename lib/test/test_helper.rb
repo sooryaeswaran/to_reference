@@ -1,0 +1,5 @@
+require "mock_classes/foo.rb"
+require "mock_classes/bar.rb"
+require "mock_classes/baz.rb"
+require "mock_classes/child.rb"
+require "mock_classes/other_child.rb"
