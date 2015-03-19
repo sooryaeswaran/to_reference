@@ -44,10 +44,12 @@ ref2.call("eat!") => # "great!"
 ```
 
 Will also work with methods that are inherited, included, extended etc.
-Want more examples ? Check out [examples](http://github.com/sooryaeswaran/to_reference/lib/test/mock_classes)
+Want more examples ? Check out [examples](http://github.com/sooryaeswaran/to_reference/tree/master/lib/test/mock_classes)
 
 ## Bugs and Feedback
 
 If you discover any bugs or want to drop a line, feel free to create an issue on GitHub.
 
 http://github.com/sooryaeswaran/to_reference/issues 
+
+ 
