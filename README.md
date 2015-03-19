@@ -1,5 +1,6 @@
 # ToReference
 
+[![Gem Version](https://badge.fury.io/rb/to_reference.svg)](http://badge.fury.io/rb/to_reference)
 [![Build Status](https://api.travis-ci.org/sooryaeswaran/to_reference.png?branch=master)](http://travis-ci.org/sooryaeswaran/to_reference)
 [![Code Climate](https://codeclimate.com/github/sooryaeswaran/to_reference.png)](https://codeclimate.com/github/sooryaeswaran/to_reference)
 
